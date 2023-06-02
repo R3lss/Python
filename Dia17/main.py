@@ -1,6 +1,6 @@
-from Dia17.question_model import Question
-from Dia17.Question import question_data
-from Dia17.quiz_brain import QuizBrain
+from question_model import Question
+from Question import question_data
+from quiz_brain import QuizBrain
 
 question_bank = []
 for n in question_data:
